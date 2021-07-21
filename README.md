@@ -1,6 +1,6 @@
-# Assalamu alaykum
+# Assalomu alaykum!
 
-## Saidalixon Sobirov, fullstack web-developer. 
+## Saidalixon Sobirov, FullStack Web Developer. 
 ### +998939087085, saidalixon.sobirov@gmail.com
 
 <!--
