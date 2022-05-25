@@ -16,12 +16,12 @@
 
 [![ Telegram ](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/saidalikhansobirov)
 [![ Youtube ](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://bit.ly/3wF1CWm)  
- [![ Instagram ](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://bit.ly/3sSx7di)
+[![ Instagram ](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://bit.ly/3sSx7di)
 
 ### Contact With Me
 
 ![ emailto:saidalikhan-sobirov@gmail.com ](https://img.shields.io/badge/-saidalikhan.sobirov@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-[![ Telegram ](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/saidalikhansobirov)
+[![ Telegram ](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/saidalikhan)
 
 [![Saidalixon Sobirov's github stats](https://github-readme-stats.vercel.app/api?username=saidalixon-sobirov)](https://github.com/saidalixon-sobirov/github-readme-stats)
 
