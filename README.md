@@ -15,8 +15,7 @@
 ### Follow Me
 
 [![ Telegram ](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/saidalikhansobirov)
-[![ Youtube ](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://bit.ly/3wF1CWm)  
-[![ Instagram ](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://bit.ly/3sSx7di)
+[![ Youtube ](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://bit.ly/3wF1CWm)[![ Instagram ](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://bit.ly/3sSx7di)
 
 ### Contact With Me
 
