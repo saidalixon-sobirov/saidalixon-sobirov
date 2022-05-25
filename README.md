@@ -20,12 +20,12 @@
 
 ### Contact With Me
 
-![ emailto:saidalikhan-sobirov@gmail.com ](https://img.shields.io/badge/-khodievm@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![ emailto:saidalikhan-sobirov@gmail.com ](https://img.shields.io/badge/-saidalikhan.sobirov@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![ Telegram ](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/saidalikhansobirov)
 
 [![Saidalixon Sobirov's github stats](https://github-readme-stats.vercel.app/api?username=saidalixon-sobirov)](https://github.com/saidalixon-sobirov/github-readme-stats)
 
-[![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=saidalixon-sobirov&langs_count=8&theme=vue)]
+![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=saidalixon-sobirov&langs_count=8&theme=vue)
 <!--  -->
 
 
